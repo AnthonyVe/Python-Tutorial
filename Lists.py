@@ -8,5 +8,3 @@ second_name = "Eric"
 print(numbers)
 print(strings)
 print("The second name on the names list is %s" % second_name)
-
-The second name on the names list is Eric
