@@ -1,8 +1,8 @@
 numbers = [1, 2, 3]
 strings = ['hello world']
-names = ["John", "Eric", "Jessica"]
+names = ["John", "Chris", "Jessica"]
 
-second_name = "Eric"
+second_name = names[1]
 
 
 print(numbers)

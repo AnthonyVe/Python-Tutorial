@@ -13,3 +13,14 @@ if c_list.count(c) == 10 and b_list.count(b) == 10:
     print("Almost there...")
 if big_list.count(c) == 10 and big_list.count(b) == 10:
     print("Great!")
+
+
+
+number1 = 1
+number2 = 2
+
+print(number1 + number2)
+print(number1 - number2)
+print(number1 * number2)
+print(number1 / number2)
+print(number1 % number2)
