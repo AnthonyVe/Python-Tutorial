@@ -2,7 +2,7 @@ numbers = [1, 2, 3]
 strings = ['hello world']
 names = ["John", "Chris", "Jessica"]
 
-second_name = names[1]
+second_name = strings[1]
 
 
 print(numbers)

@@ -24,3 +24,8 @@ print(number1 - number2)
 print(number1 * number2)
 print(number1 / number2)
 print(number1 % number2)
+
+#Conditionals
+number1 < number2
+
+
