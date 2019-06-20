@@ -1,4 +1,4 @@
-Variables-And-Types.py
+
 mystring = "hello"
 myfloat = 10.0
 myint = 20
