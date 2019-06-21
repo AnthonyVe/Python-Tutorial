@@ -11,7 +11,7 @@ class Vehicle:
 car1 = Vehicle()
 car1.name = "darren"
 car1.color = "brown"
-car1.kind = "toyota corolla"
+car1.kind = "toyota corolla 2009 model"
 car1.value = 2.00
 
 print(car1.description())
